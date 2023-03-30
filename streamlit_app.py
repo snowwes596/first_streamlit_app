@@ -9,4 +9,4 @@ streamlit.text('🐔    Hard-Boiled Eggs')
 streamlit.text('🥑🍞 Avocado Toast')
 
 streamlit.header('Special Menu')
-streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.text('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
